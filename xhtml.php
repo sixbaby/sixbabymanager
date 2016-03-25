@@ -29,8 +29,8 @@ XHTML;
 function xhtml_footer() {
 echo <<<XHTML
         <div id="footer">
-	    By：六娃
-        </div>
+	    By：<button type="button" class="btn btn-danger"><a href="http://aite.me/">爱特</a></button>原创作者，<button type="button" class="btn btn-danger"><a href="http://six.mokong.pw/">六娃</a></button>优化修改
+        </div><button type="button" class="btn btn-success"><a href="./tz.php">PHP探针-查看服务器状态</a></button>|<button type="button" class="btn btn-info"><a href="./install.php">一键安装程序</a></button>
     </body>
 </html>
 
