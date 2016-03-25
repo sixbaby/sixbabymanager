@@ -22,7 +22,7 @@ else
         $multiple="&multiple=$multiple";
     }
 }
-xhtml_head("爱特文件管理器");
+xhtml_head("六娃文件管理器");
 echo "<div class=\"love\">\n";
 echo "<form action=\"\" method=\"GET\">\n";
 echo "路径跳转:<input type=\"text\" name=\"path\" />\n";
