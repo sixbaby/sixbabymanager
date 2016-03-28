@@ -3,17 +3,13 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
 <title>六娃快速安装工具</title>
-<!-- 新 Bootstrap 核心 CSS 文件 -->
-<link href="https://apps.bdimg.com/libs/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet">
-
+<link href="https://cdn.bootcss.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
 <!-- 可选的Bootstrap主题文件（一般不使用） -->
-<script src="https://apps.bdimg.com/libs/bootstrap/3.3.0/css/bootstrap-theme.min.css"></script>
-
+<script src="https://cdn.bootcss.com/bootstrap/3.3.6/css/bootstrap-theme.min.css"></script>
 <!-- jQuery文件。务必在bootstrap.min.js 之前引入 -->
-<script src="https://apps.bdimg.com/libs/jquery/2.0.0/jquery.min.js"></script>
-
+<script src="https://cdn.bootcss.com/jquery/2.1.3/jquery.min.js"></script>
 <!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
-<script src="https://apps.bdimg.com/libs/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+<script src="https://cdn.bootcss.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 </head>
 <body>
 
